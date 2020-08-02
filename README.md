@@ -8,6 +8,9 @@ Cleaning a set of phone numbers in various formats.
 ## Press releases visualization
 A basic visualization to understand the outreach of our press release during two weeks.
 
+## Social media visualization
+Data visualization for instagram. Data was collected via instagram API and then basic visualizations were developed to track the outreach.
+
 ## Spring campaign analysis
 An analysis of the basic impact and outreach of a national campaign, including number of participants, social media outreach and data for specific groups.
 
